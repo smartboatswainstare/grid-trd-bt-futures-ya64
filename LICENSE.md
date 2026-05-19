@@ -1,4 +1,4 @@
-# 
+# elite binance futures bot executor is the best binance futures bot executor with trailing-stop and risk-management. Safe, reliable, and optimized for CEX, DEX, and algorithmic
 
 
 
